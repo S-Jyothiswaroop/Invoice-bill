@@ -1,0 +1,17 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    height: 500px;
+    font-size: 24px;
+    margin: 30 auto;
+    
+}
+td{
+    border:1px solid black ;
+}
+th{
+    border:1px solid black ;
+    text-align: left;
+    background-color: lightblue;
+}
